@@ -4,6 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheddargoblins&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
+🌱 I’m currently learning/taking Code Platoon's Full-Stack Software Engineering program
+
 <!--
 **cheddargoblins/cheddargoblins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
